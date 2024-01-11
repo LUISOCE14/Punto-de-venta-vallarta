@@ -1,0 +1,11 @@
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
