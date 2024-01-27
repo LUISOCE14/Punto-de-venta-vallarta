@@ -1,0 +1,24 @@
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\bin\Debug\Punto de venta vallarta.exe.config
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\bin\Debug\Punto de venta vallarta.exe
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\bin\Debug\Punto de venta vallarta.pdb
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.Login.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.Properties.Resources.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto de venta vallarta.exe
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto de venta vallarta.pdb
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.Inicio.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.RegistrarClientes.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.RegistrarProductos.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.RegistrarEmpleados.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.RegistrarProveedores.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.ConsultarClientes.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.ConsultarProductos.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.ConsultarEmpleados.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.ConsultarProveedores.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.RegistrarVenta.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.RegistrarCompras.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.ConsultarVentas.resources
+C:\Users\luisa\OneDrive\Escritorio\Ing de Software\Punto de venta vallarta\Punto de venta vallarta\obj\Debug\Punto_de_venta_vallarta.ConsultarCompras.resources
